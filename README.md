@@ -9,6 +9,8 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Snake animation](https://github.com/JuliaMedeir0s/JuliaMedeir0s/blob/output/github-contribution-grid-snake.svg)
 -->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=JuliaMedeir0s&theme=vision-friendly-dark&show_icons=true)](https://github.com/JuliaMedeir0s/github-readme-stats)
 
@@ -20,6 +22,4 @@
   <img align="center" alt="Julia-C++" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
 </div>
 
-##
 
-![Snake animation](https://github.com/JuliaMedeir0s/JuliaMedeir0s/blob/output/github-contribution-grid-snake.svg)
